@@ -1,0 +1,16 @@
+.container-fluid{
+     display: fixed;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black ;
+    // padding: 20px 40px;
+    background-color: white;
+    text-align: center;
+    margin: 0px auto;
+    height: 1000px;
+    .figure{
+        
+        float: right;
+        margin: 5px;
+    }
+}

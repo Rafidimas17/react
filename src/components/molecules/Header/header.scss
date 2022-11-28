@@ -1,0 +1,53 @@
+/*.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: blue;
+    .logo-app{
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        margin: 0px;
+    }
+    .menu-item{
+        font-size: 18px;
+        color: white;
+        text-decoration: underline;
+        cursor: pointer;
+        margin: 0px;
+    }
+}*/
+.header{
+    display: fixed;
+    justify-content: space-between;
+    align-items: center;
+    // border: 1px solid black ;
+    // padding: 20px 40px;
+    background-color: white;
+    text-align: center;
+   
+    .navbar-brand{
+        font-family: "Poppins";
+        color: #3252DF;
+        font-size: 34px;
+        font-weight: 450;
+    }
+    .navbar-brand span{
+        font-weight: 450;
+        font-family: "Poppins";
+        color:#152C5B ;
+        font-size: 34px;
+    }
+    .nav-item{
+        padding: 8px;
+    .nav-link{
+        color: black;
+        font-family: "Poppins";
+        font-weight: 400;
+        font-size: 18px;
+    }
+    }
+}
+
+
