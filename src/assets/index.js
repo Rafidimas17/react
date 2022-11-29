@@ -8,7 +8,9 @@ import IconGithub from "./icon/github.svg";
 import IconCities from "./icon/Cities.svg";
 import IconHiker from "./icon/Hiker.svg";
 import IconMountain from "./icon/Mountain.svg";
+import hiking from "./image/hiking.jpg";
 export {
+  hiking,
   RegisterBg,
   LoginBg,
   IconFacebook,
