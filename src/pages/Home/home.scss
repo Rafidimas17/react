@@ -5,74 +5,15 @@
     // padding: 20px 40px;
     background-color: white;
     margin: 0px auto;
-    height: 300%;
+    height: 200vh;
+
     .figure{
         float: right;
         margin: 10px;
         border-radius: 150px 15px 15px 15px;
 
     }
-    .caption{
-        // border: 1px solid black;
-        width: 429px;
-        height: 425px;
-        margin-top: 80px;
-        align-items: center;
-        .text{
-            line-height: 60px;
-            font-size: 40px;
-            color: #011A4B;
-            font-family: "Poppins";
-            font-weight: 600;
-        }
-        .sub-text{
-            font-family: 'Poppins';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 18px;
-            line-height: 27px;
-            margin-top: 23px;
-            color: #011233;;
-        }
-        .btn-show{
-            width: 199px;
-            margin-top: 43px;
-            height: 45px;
-            font-family: 'Poppins';
-            font-style: normal;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 27px;
-            color: #FFFFFF;
-            background: #3252DF;
-            box-shadow: 0px 0px 15px rgba(35, 17, 238, 0.42);
-            border-radius: 4px;
-        }
-        .card-top{
-            margin-top: 40px;
-            text-align: center;
-            outline: none;
-            background-color:transparent(100);
-            .icon{
-                width: 48px;
-                height: 48px;   
-                display: block;
-                margin-left: auto;
-                margin-right: auto;
-            }
-            .icon-title{
-                font-family: 'Poppins';
-                font-style: normal;
-                font-weight: 500;
-                font-size: 18px;
-                line-height: 27px;
-            }
-        }
-        
-    }
-    .most-picked{
-        margin-top: 50px;
-
-    }
+    
+    
     }
    

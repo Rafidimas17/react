@@ -4,7 +4,7 @@ import Home from "../Home";
 import CreateBlog from "../CreateBlog";
 import DetailBlog from "../DetailBlog";
 import Header from "../../components/molecules/Header";
-import Footer from "../../components/molecules/Footer";
+// import Footer from "../../components/molecules/Footer";
 import "./mainApp.scss";
 const MainApp = () => {
   return (
@@ -24,7 +24,7 @@ const MainApp = () => {
           </Route>
         </Switch>
       </Router>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
